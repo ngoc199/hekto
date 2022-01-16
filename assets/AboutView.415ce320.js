@@ -1,1 +1,0 @@
-import{_ as e}from"./index.65e7728d.js";import{o,a as t,b as s}from"./vendor.f7008fe2.js";const _={},n={class:"about"},r=s("h1",{class:"text-3xl font-bold underline"},"Hello world!",-1),a=[r];function c(d,l){return o(),t("div",n,a)}var u=e(_,[["render",c]]);export{u as default};

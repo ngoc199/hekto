@@ -21,7 +21,7 @@
           class="after:contents-[''] after:aspect-square after:h-auto after:w-[80%] after:absolute after:bg-[#ECD2FA59]/[0.35] after:top-[-20px] after:left-[20px] after:rounded-full before:contents-[''] before:aspect-square before:h-auto before:w-[80%] before:absolute before:bg-[#ECD2FA59]/[0.35] before:left-[-20px] before:top-[20px] before:rounded-full"
         ></div>
         <figure>
-          <img src="../assets/chair.png" alt="Chair" />
+          <img src="/img/chair.png" alt="Chair" />
         </figure>
       </div>
     </div>

@@ -19,7 +19,7 @@ withDefaults(defineProps<Props>(), {
     <div class="bg-lightGray flex items-center justify-center h-60">
       <figure>
         <img
-          :src="'src/assets/' + imageUrl"
+          :src="`/img/${imageUrl}`"
           :alt="name"
           class="object-contain h-60 w-full"
         />

@@ -1,0 +1,14 @@
+import {ComponentStory, ComponentMeta} from '@storybook/react';
+
+import {{titleCase name}} from './{{titleCase name}}';
+
+export default {
+  title: '{{name}}',
+  component: {{titleCase name}},
+}
+
+// We create a "template" of how args map to rendering
+const Template = (args) => <{{titleCase name}} {...args} />;
+
+// Each story then reuses that template
+export const Default = Template.bind({});

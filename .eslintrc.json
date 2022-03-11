@@ -4,7 +4,7 @@
     "node/no-unpublished-import": [
       "error",
       {
-        "allowModules": ["@storybook/react"]
+        "allowModules": ["@storybook/react", "plop"]
       }
     ]
   }

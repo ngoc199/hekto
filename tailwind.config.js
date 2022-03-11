@@ -1,11 +1,11 @@
 module.exports = {
-  content: ["./**/*.{js,jsx,ts,tsx}"],
+  content: ['./**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {},
   },
   plugins: [
-    require("@tailwindcss/forms"),
-    require("@tailwindcss/line-clamp"),
-    require("@tailwindcss/aspect-ratio"),
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/aspect-ratio'),
   ],
 };
